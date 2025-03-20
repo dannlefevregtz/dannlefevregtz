@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dannlefevregtz
-- 👀 I’m interested in cibersecurity.
-- 🌱 I’m currently learning how to use Git and GitHub on Platzi.
-- 📫 How to reach me @dannlefevregtz on Instagram and @DannLefevreGtz on Twitter.
+- 👋 ¡Hola! Soy @dannlefevregtz
+- 👀 Actualmente me desempeño como Encargado de Soporte TI.
 
 <!---
 dannlefevregtz/dannlefevregtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
